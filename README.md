@@ -1,4 +1,4 @@
-# kaggle_projects
+# Kaggle Projects
 Data projects done on Kaggle
 
 1) Warsaw Housing: Data cleaning, EDA and Geo Plot
